@@ -163,12 +163,15 @@ index=sysmon EventCode=11
 
 | Screenshot | Description |
 |---|---|
-| ![Splunk Running](screenshots/splunk_running.png) | Splunk Enterprise Web UI running |
+| ![Splunk Running](screenshots/splunk_server_running.webp) | Splunk server running on Ubuntu VM |
+| ![Splunk Web UI](screenshots/splunk_web_UI.png) | Splunk Enterprise Web UI |
 | ![Sysmon Index](screenshots/sysmon_index.png) | Sysmon index created in Splunk |
-| ![Forwarder Connected](screenshots/forwarder_connected.png) | ESTABLISHED TCP connection confirmed |
-| ![Sysmon Events](screenshots/sysmon_events_windows.png) | Sysmon Event ID 1 on Windows |
-| ![inputs.conf](screenshots/inputs_conf.png) | inputs.conf configured correctly |
-| ![Receiving Port](screenshots/splunk_receiving.png) | Port 9997 receiving enabled |
+| ![Indexes Page](screenshots/indexes_page.png) | All Splunk indexes overview |
+| ![TCP Connection](screenshots/TCP_connection_established.png) | ESTABLISHED TCP connection confirmed |
+| ![Sysmon Events](screenshots/Sysmon_Event_ID_1.png) | Sysmon Event ID 1 on Windows |
+| ![Port 9997](screenshots/Port_9997_receiving_enabled.png) | Port 9997 receiving enabled |
+| ![Sysmon Search](screenshots/splunk_sysmon_search.png) | Sysmon search in Splunk |
+| ![VM Settings](screenshots/vmware_vm_settings.png) | VMware VM configuration |
 
 ---
 
